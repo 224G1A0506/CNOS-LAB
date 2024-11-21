@@ -1,4 +1,4 @@
 # Program File
-! [worstfit.py](worst fit.py)
+! [worstfit.py](worstfit.py)
 # Program Output
-! [worstfit_output.png](worst fit_output.png)
+! [worstfit_output.png](worstfit_output.png)
